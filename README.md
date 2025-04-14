@@ -22,7 +22,11 @@ This is a e-commerce website built to simulate an online shopping experience. It
 2. Customize product
 
    Still have work to do...
-
+   
+###Main Section-
 
 ![Screenshot 2025-04-14 190338](https://github.com/user-attachments/assets/f66d3223-c8a2-4384-b099-bbcea78ed6c0)
+
+###Footer Section-
+
 ![Screenshot 2025-04-14 190401](https://github.com/user-attachments/assets/f16ef4dd-4b8c-4ebf-8c11-b3229ac550a3)
